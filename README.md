@@ -7,4 +7,4 @@ Welcome to Data Analysis using python online workshop this repository consists o
 - Anaconda installation
 - [Python basics (note book file)](https://github.com/AP-Skill-Development-Corporation/DataAnalysisUsingPython-QIS-online-workshop/blob/main/Day-01-python%20basics.ipynb)
 ### [Day-2  27Jun2021]
-- Numpy
+- [Numpy](https://github.com/AP-Skill-Development-Corporation/DataAnalysisUsingPython-QIS-online-workshop/blob/main/Day-02%20NumPy.ipynb)
