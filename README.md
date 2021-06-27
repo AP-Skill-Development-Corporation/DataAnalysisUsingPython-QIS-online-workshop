@@ -6,3 +6,5 @@ Welcome to Data Analysis using python online workshop this repository consists o
 - Introduction to Data Analysis
 - Anaconda installation
 - Python basics 
+### [Day-2  27Jun2021]
+- Numpy
