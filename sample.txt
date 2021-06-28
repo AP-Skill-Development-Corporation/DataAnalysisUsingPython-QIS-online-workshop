@@ -1,0 +1,4 @@
+name rollnum college age
+a 1 qis 19
+b 2  20
+b 3 qis 17
