@@ -12,5 +12,5 @@ Welcome to Data Analysis using python online workshop this repository consists o
 - [Numpy](https://github.com/AP-Skill-Development-Corporation/DataAnalysisUsingPython-QIS-online-workshop/blob/main/Day-02%20NumPy.ipynb)
 
 
-### [Day-03 28Jun2021]
+### [Day-03 Recorded Video Link 28Jun2021](https://transcripts.gotomeeting.com/#/s/2ad5c216c9295d52847a4e7a7b702b6763c8d79c5f25809e917a5ae585de35a6)
 - Pandas
