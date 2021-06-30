@@ -14,3 +14,7 @@ Welcome to Data Analysis using python online workshop this repository consists o
 
 ### [Day-03 Recorded Video Link 28Jun2021](https://transcripts.gotomeeting.com/#/s/2ad5c216c9295d52847a4e7a7b702b6763c8d79c5f25809e917a5ae585de35a6)
 - Pandas
+
+### [Day-04 Recorded video Link 29June2021](https://transcripts.gotomeeting.com/#/s/41747400d853703536f6aafb02a47641e4bca748f6c8b32a122041cdb944901d)
+- Cleaning data
+- Matplotlib Library
