@@ -18,3 +18,7 @@ Welcome to Data Analysis using python online workshop this repository consists o
 ### [Day-04 Recorded video Link 29June2021](https://transcripts.gotomeeting.com/#/s/41747400d853703536f6aafb02a47641e4bca748f6c8b32a122041cdb944901d)
 - Cleaning data
 - Matplotlib Library
+
+### [Day-05 Recorded video Link 30June2021](https://transcripts.gotomeeting.com/#/s/307841c7ba2fc0fceca1e097197a39dee8f835ba7ff67f7dee349bd5f0dad3d5)
+- Seaborn Library
+- Machine Learning Introduction
